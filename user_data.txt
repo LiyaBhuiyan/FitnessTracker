@@ -1,0 +1,12 @@
+===== FITNESS REPORT =====
+Name: lia
+Age: 23
+Gender: Female
+Weight: 87.0
+Height: 1.62
+Target Weight: 0.0
+
+BMI: 33.15
+BMR: 1651.30
+Category: Obese
+Calories/day: 1151.30
